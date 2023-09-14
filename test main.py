@@ -5,6 +5,6 @@ def main():
 
 def askAndPrintName():
     name = input("What is your name?")
-    print("Welcome ", name)
+    print("Welcome Jiaju")
 
 main()
